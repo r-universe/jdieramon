@@ -5,3 +5,6 @@
 [submodule "airqualityES"]
 	path = airqualityES
 	url = https://github.com/jdieramon/airqualityes
+[submodule "refseqR"]
+	path = refseqR
+	url = https://github.com/jdieramon/refseqr
